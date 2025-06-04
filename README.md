@@ -4,10 +4,13 @@
 
 ### 🧭 About Me
 
-[![Education Badge](https://img.shields.io/badge/Education-HKU%20🎓-9A7AA0?style=flat-square)](https://www.hku.hk/)
-[![Research Interests](https://img.shields.io/badge/Focus-Causal%20Inference%20&%20ML-4ABDAC?style=flat-square)]()
-[![Currently Learning](https://img.shields.io/badge/Learning-Python%20%7C%20Stata%20%7C%20Quant%20Methods-F7B733?style=flat-square)]()
-[![Fun Badge](https://img.shields.io/badge/Mood-Curious%20%26%20Caffeinated-FF6F61?style=flat-square)]()
+🎓 **Education**: Bachelor of Economics & Finance, Master of Sustainable Accounting and Finance @ HKU  
+📌 **Research Interests**: Causal Inference, Machine Learning, Sustainable Finance  
+
+🧐 A relentless experimenter who treats every dataset like a mystery novel — there’s always a twist you didn’t see coming
+🔍 Believer in the power of small steps — much like ants tracing complex paths on the beach, each “failure” is just a hidden solution
+🚀 Driven not by quick wins, but by building lasting knowledge that pushes boundaries and changes perspectives
+🧠 Forever curious, sometimes stubborn, always ready to learn — because research isn’t about perfection, but progress
 
 ---
 
@@ -39,7 +42,7 @@
 
 - 😄 Pronouns: **She / Her**
 - ⚡ Fun fact: I once designed a vocabulary app to help myself remember **important academic words** I tend to forget — tailored to how *I* memorize best! (Also redesigned it twice... for aesthetic reasons 🎨)
-- 🧋 I do my best thinking with **milk tea** and **rock music**, though I’m equally into **geography, history, musicals**, and more!
+- 🧋 I do my best thinking with **milk tea** and **rock music**, though I’m equally into **geography, history, literature, musicals**, and more!
 
 ---
 
