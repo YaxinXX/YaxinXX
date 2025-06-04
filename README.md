@@ -6,7 +6,6 @@
 
 🎓 **Education**: Bachelor of Economics & Finance, Master of Sustainable Accounting and Finance @ HKU  
 📌 **Research Interests**: Causal Inference, Machine Learning, Sustainable Finance  
-
 🧐 A relentless experimenter who treats every dataset like a mystery novel — there’s always a twist you didn’t see coming
 🔍 Believer in the power of small steps — much like ants tracing complex paths on the beach, each “failure” is just a hidden solution
 🚀 Driven not by quick wins, but by building lasting knowledge that pushes boundaries and changes perspectives
