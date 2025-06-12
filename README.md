@@ -7,13 +7,13 @@
 🎓 **Education**: Bachelor of Economics & Finance, Master of Sustainable Accounting and Finance @ HKU  
 📌 **Research Interests**: Causal Inference, Machine Learning, Sustainable Finance  
 
-Pronouns: **She / Her**
-
-My name means **elegance** (雅) and **flourishing growth** (欣).<br>  
-It reminds me to stay calm, graceful, and always keep a positive, growing spirit 🌿✨.<br>
-I love how it reflects both a quiet strength and a bright outlook — just like me!  
-
-Thanks for stopping by 💫
+  Pronouns: **She / Her**
+    
+  My name means **elegance** (雅) and **flourishing growth** (欣).<br>  
+  It reminds me to stay calm, graceful, and always keep a positive, growing spirit 🌿✨.<br>
+  I love how it reflects both a quiet strength and a bright outlook — just like me!  
+    
+  Thanks for stopping by 💫
 
 ---
 
