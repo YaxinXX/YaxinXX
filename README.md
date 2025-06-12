@@ -7,13 +7,13 @@
 🎓 **Education**: Bachelor of Economics & Finance, Master of Sustainable Accounting and Finance @ HKU  
 📌 **Research Interests**: Causal Inference, Machine Learning, Sustainable Finance  
 
-🧐 A relentless experimenter who treats every dataset like a mystery novel — there’s always a twist you didn’t see coming  
+Pronouns: **She / Her**
 
-🔍 Believer in the power of small steps — much like ants tracing complex paths on the beach, each “failure” is just a hidden solution  
+My name means **elegance** (雅) and **flourishing growth** (欣).<br>  
+It reminds me to stay calm, graceful, and always keep a positive, growing spirit 🌿✨.<br>
+I love how it reflects both a quiet strength and a bright outlook — just like me!  
 
-🚀 Driven not by quick wins, but by building lasting knowledge that pushes boundaries and changes perspectives  
-
-🧠 Forever curious, sometimes stubborn, always ready to learn — because research isn’t about perfection, but progress  
+Thanks for stopping by 💫
 
 ---
 
@@ -43,9 +43,10 @@
 
 ### 🙋‍♀️ Fun Bits
 
-- 😄 Pronouns: **She / Her**
-- ⚡ Fun fact: I once designed a vocabulary app to help myself remember **important academic words** I tend to forget — tailored to how *I* memorize best! (Also redesigned it twice... for aesthetic reasons 🎨)
-- 🧋 I do my best thinking with **milk tea** and **rock music**, though I’m equally into **geography, history, literature, musicals**, and more!
+- 🧐 A relentless experimenter who treats every dataset like a mystery novel — there’s always a twist you didn’t see coming  
+- 🔍 Believer in the power of small steps — much like ants tracing complex paths on the beach, each “failure” is just a hidden solution  
+- 🚀 Driven not by quick wins, but by building lasting knowledge that pushes boundaries and changes perspectives  
+- 🧠 Forever curious, sometimes stubborn, always ready to learn — because research isn’t about perfection, but progress  
 
 ---
 
