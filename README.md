@@ -24,7 +24,4 @@
 
 ---
 
-> 🐜 *"An ant, viewed as a behaving system, is quite simple. The apparent complexity of its behavior over time is largely a reflection of the environment through which it crawls."*  
-> — Herbert A. Simon  
->  
-> Like that ant on the beach, I embrace the twists and turns — each path an attempt to adapt, to learn, and to grow. I’m not afraid of setbacks, only of standing still. Let’s keep exploring 🌱
+> 醉后不知天在水，满船清梦压星河
