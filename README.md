@@ -5,48 +5,14 @@
 ### 🧭 About Me
 
 🎓 **Education**: Bachelor of Economics & Finance, Master of Sustainable Accounting and Finance @ HKU  
-📌 **Research Interests**: Causal Inference, Machine Learning, Sustainable Finance  
 
   Pronouns: **She / Her**
     
   My name means **elegance** (雅) and **flourishing growth** (欣).<br>  
   It reminds me to stay calm, graceful, and always keep a positive, growing spirit 🌿✨.<br>
-  I love how it reflects both a quiet strength and a bright outlook — just like me!  
+  I love how it reflects both a quiet strength and a bright outlook 
     
   Thanks for stopping by 💫
-
----
-
-### 👩‍🔬 Academic Interests
-
-- 🧠 *Causal Inference*, especially in **policy evaluation** and **green finance**
-- 📊 *Machine Learning* applications in **ESG analysis**, **corporate behavior**, and **impact studies**
-- 📈 Sustainability meets econometrics: How can financial data help shape a better world?
-
----
-
-### 🔍 Currently Working On
-
-- Replicating **"The Effects of Mandatory ESG Disclosure Around the World"** (Krueger et al.) and building a clean, annotated GitHub repo for replication studies
-- Reading papers, writing notes, and sketching early thoughts for a future research proposal
-- Sharpening my coding skills — one `for loop` at a time 🐍
-
----
-
-### 💬 Let's Collaborate
-
-- 💡 I’m open to **research assistant opportunities** or **collaborative replication projects**
-- 🧪 I love turning messy data into meaningful insights
-- ✍️ I'm building toward a future in academic research — and enjoying the process!
-
----
-
-### 🙋‍♀️ Fun Bits
-
-- 🧐 A relentless experimenter who treats every dataset like a mystery novel — there’s always a twist you didn’t see coming  
-- 🔍 Believer in the power of small steps — much like ants tracing complex paths on the beach, each “failure” is just a hidden solution  
-- 🚀 Driven not by quick wins, but by building lasting knowledge that pushes boundaries and changes perspectives  
-- 🧠 Forever curious, sometimes stubborn, always ready to learn — because research isn’t about perfection, but progress  
 
 ---
 
